@@ -4,5 +4,8 @@ public class hello_git {
 		System.out.println("hello git");
 		System.out.println("hello git 2");
 	}
-	
+	public void saludo()
+	{
+		System.out.println("Primer metodo del proyecto");
+	}
 }
