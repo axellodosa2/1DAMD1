@@ -7,5 +7,6 @@ public class hello_git {
 	public void saludo()
 	{
 		System.out.println("Primer metodo del proyecto");
+		System.out.println("¡Hola! ¿Todo bien?");
 	}
 }
